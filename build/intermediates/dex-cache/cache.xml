@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\e347ed93224b2b700ff6b4cc41884530b48e7616\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1531ac331bf81da302f5e7aa1987cc7e59513651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bec6f529f57f0e3b836ddfd2571fbde63dee819">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_400b01004c5816dd315fa2db17746bf1dcd5ffbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\3b5d1fb166fc80c24ac46fdcc24cb8fa64a92a85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bba6fb3d4332a0382c770a1c66aceefee642e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_beaddfdbfb0fd33df3b0748acda0052e7137a052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\99cb16c320f97ed0b39514fb1b8f659f5a717547\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ade7a2985890793c9851af24ae25befcfdfabb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\32dccbfcf6bf1b4a20e731343c5abcd969578037\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b74fbcd63d5e8991a2405acdd1a6b64526714a53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_278f9c8ee3ddb348f9c04621763e6c91bce136d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\9df800b63e7c7176975330a8e1788c58faf7ce24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4224fd66fbed1c4cda64c938b62f794d5747390d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\bb6f00cff0ac430c0d9fa2538e4dfd4a5d19e193\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e9301901b55c8debedb2584c8f2cd4f230bb458\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\d7ad4aa6f6974c325d1edb383aca61f174f1382c\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_850dea7ab50b8147931ea2d6d4fc547875818b7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny Chianglin\.android\build-cache\d7ad4aa6f6974c325d1edb383aca61f174f1382c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Danny Chianglin\Desktop\AndroidVision\visionSamples\ocr-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56b4c87564677bd6eb6736fbeae72a28227b6455\classes.dex" />
+    </item>
+
+</items>

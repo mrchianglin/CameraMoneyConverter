@@ -1,0 +1,7 @@
+#Tue Apr 11 20:29:15 PDT 2017
+base.0=C\:\\Users\\Danny Chianglin\\Desktop\\AndroidVision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_278f9c8ee3ddb348f9c04621763e6c91bce136d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Danny Chianglin\\Desktop\\AndroidVision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_400b01004c5816dd315fa2db17746bf1dcd5ffbb\\classes.dex
+base.1=C\:\\Users\\Danny Chianglin\\Desktop\\AndroidVision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_400b01004c5816dd315fa2db17746bf1dcd5ffbb
+file.0=C\:\\Users\\Danny Chianglin\\Desktop\\AndroidVision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_278f9c8ee3ddb348f9c04621763e6c91bce136d6\\classes.dex
